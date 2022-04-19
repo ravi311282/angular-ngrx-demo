@@ -1,7 +1,7 @@
 # Angular application - NgRx demo
 
 
-A demo Angular application with tests - Uses an API to display a list of regions, countries and the details of a selected country. NgRx libraries are implemented to manage the state of the app, Jasmine, Karma and Cypress for unit and end to end tests and Angular Material for presentation.
+A demo Angular application with tests - Uses an API to display a list of regions, countries and the details of a selected country. NgRx libraries are implemented to manage the state of the app, Jasmine, Karma for unit and Angular Material for presentation.
 
 
 By [Ravikumar Lekkala](https://www.uniqon.co.uk/ravi.lekkala)
